@@ -52,12 +52,6 @@ export const pageMap = [{
       "sidebarTitle": "Get Started"
     }
   }, {
-    name: "icons",
-    route: "/documentation/icons",
-    frontMatter: {
-      "sidebarTitle": "Icons"
-    }
-  }, {
     name: "introduction",
     route: "/documentation/introduction",
     frontMatter: {
