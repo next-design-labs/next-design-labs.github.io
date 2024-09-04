@@ -1,1 +1,1 @@
-{"v":5,"entries":{"sample--default":{"type":"story","id":"sample--default","name":"Default","title":"Sample","importPath":"./packages/core/src/Sample.stories.tsx","tags":["dev","test"]}}}
+{"v":5,"entries":{"components-typography--main":{"type":"story","id":"components-typography--main","name":"Main","title":"Components/Typography","importPath":"./packages/core/src/Typography/Typography.stories.tsx","componentPath":"./packages/core/src","tags":["dev","test"]}}}
